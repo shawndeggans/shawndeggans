@@ -1,42 +1,80 @@
-# Hello, I'm Shawn 👋
+# Shawn Deggans
 
-## Curiosity-Driven Explorer
+**Principal Solutions Architect** | **Data & AI Strategy** | **Enterprise Transformation**
 
-After 25+ years in tech, this is where I come to play. While my professional life revolves around solution architecture and data strategy at [Applied Curiosity](https://appliedcuriosity.ai), this space is dedicated to my experiments, explorations, and occasional rabbit holes.
+---
 
-## What drives me?
+## About
 
-- **Curiosity:** The foundation of everything I do
-- **Locality and Simplicity:** Keeping solutions elegant and close to their problems
-- **Focus, Flow, and Joy:** Finding the sweet spot where work becomes play
-- **Continuous Improvement:** Always asking "what can be better?"
-- **Psychological Safety:** Creating spaces where innovation thrives
-- **Customer Focus:** Even in play, keeping the end user in mind
+I'm a Principal Solutions Architect at [Applied Curiosity](https://appliedcuriosity.ai) with 25+ years of experience designing and implementing data and AI solutions for enterprise clients. I specialize in translating complex business challenges into scalable technical architectures that deliver measurable outcomes.
 
-## Current Playground Projects
+My work focuses on enterprise data modernization, AI implementation strategy, and building teams that can execute transformational technology initiatives. I hold AWS Solution Architect Associate and Databricks Data Engineer Associate certifications.
 
-Here you'll find a collection of experiments ranging from documentation tools to plant monitoring systems:
+## Core Expertise
 
-- 📝 **notebook_docs**: Capturing documentation from Jupyter notebooks to GitHub pages
-- ⏱️ **only_this_moment**: Writings and experiments related to Momentary Apps
-- 🤠 **refactored_space_cowboy**: Tools for managing tags, policies, and Databricks budgeting
-- 🤖 **simple_mcp_example**: A simple example of using MCP with a local model
-- 🌱 **plant_monitoring_study**: Simulating plant monitoring telemetry
-- 🌮 **sanchos_irish_tacos**: "This is sanchos irish tacos until it's not"
+**Solution Architecture & Strategy**
+- Enterprise data platform design and modernization
+- Cloud architecture (AWS, Azure, Databricks)
+- AI/ML system design and governance frameworks
+- Digital transformation strategy and execution
 
-## My Technical Palette
+**Technical Leadership**
+- Cross-functional team leadership and capability building
+- Architecture decision frameworks and documentation
+- Technology vendor relationship management
+- Risk assessment and mitigation planning
 
-Throughout my career, I've worked across:
-- Solution Architecture
-- Data Engineering & Analytics
-- Cloud Solutions (AWS, Azure)
-- IoT Implementation
-- Machine Learning
-- Distributed Systems
-- Web Development
+**Business Alignment**
+- OKR-driven solution development
+- Business case development and ROI analysis
+- Stakeholder engagement and change management
+- Value stream mapping and process optimization
 
-## Let's Connect
+## Current Focus
 
-I'm always open to interesting conversations, collaborations, or just sharing ideas. Feel free to reach out if something here catches your interest or if you have questions about any of my projects.
+**AI-Augmented Productivity Systems**: Researching and developing frameworks for scaling expert knowledge in professional services environments. This includes building systems that capture, organize, and reuse architectural decision-making patterns.
 
-*"The important thing is not to stop questioning. Curiosity has its own reason for existing."* - Albert Einstein
+**Enterprise AI Governance**: Developing practical frameworks for responsible AI implementation in regulated industries, including government and healthcare sectors.
+
+**Solutions Architecture Practice Development**: Creating methodologies and training programs for scaling architectural expertise across consulting organizations.
+
+## Selected Projects
+
+**Government Data Modernization**: Led comprehensive data system rebuilds for federal and state reporting requirements, improving query performance and regulatory compliance for large non-profit organizations.
+
+**Manufacturing IoT Implementation**: Designed edge computing and data processing platforms for steel processing operations, enabling predictive maintenance through operational metrics analysis.
+
+**Enterprise Cloud Migration**: Architected large-scale migration strategies for Fortune 500 companies, including technical assessments, risk mitigation, and phased implementation planning.
+
+## Technical Background
+
+Throughout my career, I've worked across the full spectrum of enterprise technology:
+
+- **Current Stack**: AWS, Azure, Databricks, Python, SQL, Terraform
+- **Data Platforms**: Modern data warehouse design, data lake architectures, real-time streaming
+- **AI/ML**: Model deployment pipelines, MLOps, responsible AI frameworks
+- **Integration**: API design, event-driven architectures, legacy system modernization
+- **DevOps**: Infrastructure as code, CI/CD pipelines, monitoring and observability
+
+## Publications & Research
+
+I regularly contribute to industry knowledge through case studies, architectural patterns, and research on scaling technical expertise. Current research focuses on AI-augmented productivity systems and knowledge scaling in expert-dependent organizations.
+
+## Professional Philosophy
+
+I believe effective solution architecture requires balancing technical excellence with business pragmatism. My approach prioritizes:
+
+- **Locality and Simplicity**: Keeping solutions close to problems and architectures elegant
+- **Evidence-Based Decision Making**: Using data and measurable outcomes to guide choices
+- **Psychological Safety**: Creating environments where teams can innovate and truth-tell
+- **Continuous Improvement**: Systematic refinement of methods and outcomes
+
+## Connect
+
+- **LinkedIn**: [linkedin.com/in/shawn-deggans](https://www.linkedin.com/in/shawn-deggans/)
+- **Professional Email**: Available through Applied Curiosity
+- **Location**: Fort Worth, Texas
+
+---
+
+*Available for architectural reviews, strategic consulting engagements, and collaboration on complex data and AI initiatives.*
